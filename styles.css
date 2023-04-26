@@ -1,2 +1,61 @@
 
 /* Your CSS Code here. */
+.first{
+	padding-right:70px;
+	padding-bottom:10px;
+	background-color:rgb(0,128,1);
+	display:inline-flex;
+/* 	margin-right:0px; */
+/* 	margin-bottom:0px; */
+}
+.sec{
+	padding-right:70px;
+	padding-bottom:10px;
+	background-color:rgb(0,128,1);
+	display:inline-flex;
+/* 	margin-right:2px;
+	margin-bottom:0px; */
+}
+.third{
+	padding-right:70px;
+	padding-bottom:10px;
+	background-color:rgb(0,128,1);
+	display:inline-flex;
+	margin-right:4px;
+	margin-bottom:0px;
+}
+.fourth{
+	padding-right:70px;
+	padding-bottom:10px;
+	background-color:rgb(0,128,1);
+	display:inline-flex;
+	margin-right:4px;
+	margin-bottom:0px;
+}
+.fifth{
+	padding-right:70px;
+	padding-bottom:10px;
+	background-color:rgb(0,128,1);
+	display:inline-flex;
+	margin-right:4px;
+	margin-bottom:0px;
+}
+.sixth{
+	padding-right:70px;
+	padding-bottom:10px;
+	background-color:rgb(255,0,0);
+	display:inline-flex;
+	margin-right:4px;
+	margin-bottom:0px;
+}
+.seventh{
+	padding-right:70px;
+	padding-bottom:10px;
+	background-color:rgb(0,0,255);
+	display:inline-flex;
+	margin-right:4px;
+	margin-top:0px;
+	
+}
+
+
